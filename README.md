@@ -1,6 +1,8 @@
 # Sanke Shetty Portfolio
 <img width="1922" height="916" alt="image" src="https://github.com/user-attachments/assets/a1ef13aa-3587-448a-9fd4-58762d15cd21" />
 
+
+
 Personal portfolio website for **Sanket Shetty**, a Frontend Developer, showcasing skills, projects, and contact info. Built with **HTML, CSS, JS, and Bootstrap**.
 
 ---
