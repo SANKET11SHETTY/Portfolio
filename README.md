@@ -1,7 +1,5 @@
-# Portfolio
+# Sanke Shetty Portfolio
 <img width="1922" height="916" alt="image" src="https://github.com/user-attachments/assets/a1ef13aa-3587-448a-9fd4-58762d15cd21" />
-
-# Daisy Murillo Portfolio
 
 Personal portfolio website for **Sanket Shetty**, a Computer Science student and Infrastructure Engineer, showcasing skills, projects, and contact info. Built with **HTML, CSS, JS, and Bootstrap**.
 
